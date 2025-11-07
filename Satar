@@ -5,7 +5,7 @@
 </head>
 <body>
 <header>
-    <img id="header-image" src="">
+    <img id="header-image" src="https://imgs.search.brave.com/W68hqyjG3dHTODygjuXt_MHQKZ8urXDgRbum5MC6BeU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/ZHJpYmJibGUuY29t/L3VzZXJzLzEwMjQ5/NTcvc2NyZWVuc2hv/dHMvMzY1OTM3MS9t/ZWRpYS9lMTBlODJi/OTFmODYzODc5NTNm/NjFmZWIwZDgwNzFj/Yi5qcGc_Y29tcHJl/c3M9MSZyZXNpemU9/NDAweDMwMCZ2ZXJ0/aWNhbD1jZW50ZXI" alt="BurgieBros logo" style="width:150px; height:auto;">
     <h1>The Burger you enjoy in common</h1>
     <nav>
       <a href="#menu">Menu</a>
@@ -14,30 +14,30 @@
   </header> 
 
   <main>
-    <section>
+    <section id="menu">
     <h2>Menu</h2>
     <hr>
     <article>
     <h3>French Fries</h3>
-    <img src="https://imgs.search.brave.com/SzdCqZ53Bjo6ivyqadeQdxE0piMHJPKrUx1x2qijnaw/rs:fit:0:180:1:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzA2LzUxLzc3LzUz/LzM2MF9GXzY1MTc3/NTM3MF9CWWZDeHI4/aG11MGw5a0x1dFhs/dzB1YU1hWWpvRlBy/Yi5qcGc">
+    <img src="https://imgs.search.brave.com/SzdCqZ53Bjo6ivyqadeQdxE0piMHJPKrUx1x2qijnaw/rs:fit:0:180:1:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzA2LzUxLzc3LzUz/LzM2MF9GXzY1MTc3/NTM3MF9CWWZDeHI4/aG11MGw5a0x1dFhs/dzB1YU1hWWpvRlBy/Yi5qcGc" alt="A plate of crispy golden french fries">
     <p>Fresh and homemade french fries for everyone  <em>$3.99</em></p>
     </article>
 <hr>
     <article>
     <h3>Burger</h3>
-    <img src="https://imgs.search.brave.com/FsGP3iY3WBNZHQYtvzrg_2YnxMnRMu5POtD06OAsrj8/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90aHVt/YnMuZHJlYW1zdGlt/ZS5jb20vYi9jaGlj/a2VuLWJ1cmdlci1p/c29sYXRlZC13aGl0/ZS1iYWNrZ3JvdW5k/LWNsYXNzaWMtbGV0/dHVjZS1jaGVlc2Ut/c2F1Y2UtdG9tYXRv/LWRlc2lnbi1lbGVt/ZW50LWNoZWVzZWJ1/cmdlci1zaWRlLXZp/ZXctMzc1NDYzODEz/LmpwZw">
+    <img src="https://imgs.search.brave.com/FsGP3iY3WBNZHQYtvzrg_2YnxMnRMu5POtD06OAsrj8/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90aHVt/YnMuZHJlYW1zdGlt/ZS5jb20vYi9jaGlj/a2VuLWJ1cmdlci1p/c29sYXRlZC13aGl0/ZS1iYWNrZ3JvdW5k/LWNsYXNzaWMtbGV0/dHVjZS1jaGVlc2Ut/c2F1Y2UtdG9tYXRv/LWRlc2lnbi1lbGVt/ZW50LWNoZWVzZWJ1/cmdlci1zaWRlLXZp/ZXctMzc1NDYzODEz/LmpwZw" alt="A juicy burger with lettuce, cheese, and tomato">
     <p>The Burger that makes you a King  <em>$8.99</em></p>    
     </article>
 <hr>
     <article>
     <h3>Pizza</h3>
-    <img src="https://imgs.search.brave.com/LOuPvh5uKdBQ2twwDqhkn8pJRNqlSOkjuMZvdi15FiM/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90aHVt/YnMuZHJlYW1zdGlt/ZS5jb20vYi9waXp6/YS0xMDIwOTI1NS5q/cGc">
+    <img src="https://imgs.search.brave.com/LOuPvh5uKdBQ2twwDqhkn8pJRNqlSOkjuMZvdi15FiM/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90aHVt/YnMuZHJlYW1zdGlt/ZS5jb20vYi9waXp6/YS0xMDIwOTI1NS5q/cGc" alt="Freshly baked pizza with mushrooms and cheese">
     <p>Authentic Italiano Pizza with funghi  <em>$10.99</em></p>   
     </article>
 <hr>
     </section>
 
-    <section>
+    <section id="order-form">
     <h2>Place Your Order</h2>
     <form>
         <label for="french-fries">French Fries </label>
